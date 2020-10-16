@@ -1,24 +1,24 @@
-## Cats Learning 🙀
+# Cats Learning 🙀
 ----- 
 
 > A tiny report to share our progress on the Data Science Certifications Route 
 
-### 📚 Available Certifications 
+## 📚 Available Certifications 
 
 * [CCA-175 ](https://www.cloudera.com/about/training/certification/cca-spark.html)
 
-### 📓 Available Language Resources 
+## 📓 Available Language Resources 
 
 * Python
 * R 
 * Scala 
 
-### 👾 Authors 
+## 👾 Authors 
 
 * Alexandra Abos 
 * Xisca Pericàs 
 
-#### 📝 Others projects 
+##  📝 Others projects 
 
 * Ultimate Language Combat Blog 
 * Predictive Challenge Cajamar 
