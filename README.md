@@ -1,5 +1,4 @@
 # Cats Learning 🙀
------ 
 
 > A tiny report to share our progress on the Data Science Certifications Route 
 
