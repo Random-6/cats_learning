@@ -8,7 +8,16 @@
 
 ## 📓 Available Tasks 
 
-## 🎶 Available Projects 
+- [ ] WordCounter: create a script that reads a frostroad.txt file and counts the number of time each word appears. 
+- [ ] DataFrame Analysis: upload a titanic_data.csv, create a new dataframe, review Schema, perform several queries (count of values, uniques, etc.) 
+- [ ] DataFrame Join: upload two data sources, create new dataframes, join and perform queries 
+- [ ] RDD: clean device (devices.csv) status data (pag. 49) 
+- [ ] Query Table: create a SQL table and query 
+- [ ] Dataset: upload data source, create a dataset, query 
+
+## 🎶 Available Projects/Applications
+
+- [ ] WordCounter: convert task to app (export result into .txt) 
 
 
 
